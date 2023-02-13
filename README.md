@@ -11,6 +11,10 @@ The fastq file contains [4 samples](data/samples.csv) that were sequenced with d
 |   Sample3  |  AGCCTCAT |
 |   Sample4  |  TGGATCGA |
 
-For testing purposes, you will find a fastq file with the corresponding samplesheet in the following GitHub repository: https://github.com/lmfaber-dkfz/demultiplex
+For testing purposes, you will find a fastq file with the corresponding samplesheet in the following GitHub 
+repository: https://github.com/lmfaber-dkfz/demultiplex
 
-To submit your solution, please upload your source file(s) to a public GitHub/GitLab repository and send the link with your solution to the provided email address.
+To submit your solution you can:
+  * send your source file(s) directly to the provided email address. 
+  * upload your source file(s) to a public GitHub/GitLab repository and send the link  
+    to the provided email address.
